@@ -1,4 +1,16 @@
-module.exports= {
-    "extens": ["airbnb/base"]
+{
+ "env": {
+  "browser": true,
+  "es6": true,
+  "node": true
+ },
+ "extends": ["airbnb/base"],
+ "rules": {
+  "semi": "off",
+  "no-plusplus": "off",
+  "no-console": "off",
+  "eol-last": "off"
+
+ }
 
 }
