@@ -1,0 +1,20 @@
+.container {
+    border-radius: 15px;
+    box-shadow: 0 0 10px #ef081f;
+    padding: 20px 30px 50px 20px;
+    border: 1px solid #26011e;
+}
+
+
+h1 {
+    text-align: center;
+    color: #26011e;
+    background-color: aqua;
+}
+.logo {
+    background-image: url("../assets/WebpackLogo.jpg");
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+
+}
